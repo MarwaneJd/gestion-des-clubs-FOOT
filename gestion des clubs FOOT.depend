@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687441222 source:c:\users\dell\desktop\gestion des clubs foot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
